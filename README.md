@@ -1,7 +1,7 @@
 TikTok Advertiser Bot
 =====================
 
-Automate TikTok commenting with ease! This script uses Selenium to log in to TikTok, navigate hashtags, and post comments on videos.
+Automate TikTok commenting with ease! This script uses Selenium to log in to TikTok, navigate hashtags, and post comments on videos, All hashtags and comments can be edited! 
 
 ```
 Run the python file login to tiktok and the script will save the cookies and use this for the next time you run it
