@@ -11,7 +11,7 @@ Run the python file login to tiktok and the script will save the cookies and use
 ---
 - Log in to TikTok using saved cookies or manual login.
 - Automatically post comments on videos under specified hashtags.
-- Customizable comments promoting your GitHub projects.
+- Customizable comments promoting your choosen projects or product.
 
 ## Requirements:
 ---
