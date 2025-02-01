@@ -318,7 +318,7 @@ def main():
     COOKIES_FILE = 'tiktok_cookies.json'
     COMMENTED_FILE = 'commented_videos.json'
 
-    # Default list of hashtags
+    # Change to your own hashtags here for what your target group is
     DEFAULT_HASHTAGS = [
         'tech', 'security', 'github', 'projects',
         'cybersecurity', 'coding', 'programming', 'developers',
