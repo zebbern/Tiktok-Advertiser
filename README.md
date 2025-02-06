@@ -40,4 +40,8 @@ Contribute:
 -----------
 Feel free to suggest improvements or contribute by visiting [https://github.com/zebbern](https://github.com/zebbern).
 
-Enjoy!
+<hr>
+
+> [!WARNING]  
+> These is intended for educational and ethical hacking purposes only. It should only be used to test systems you own or have explicit permission to test. Unauthorized use of third-party websites or systems without consent is illegal and unethical.
+
