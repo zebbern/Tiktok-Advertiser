@@ -22,7 +22,9 @@
 </div>
 
 > [!Note]
-> **Run the python file login to tiktok and the script will save the cookies and use this for the next time you run it**
+> **Step 1: Run the python file**
+> 
+> **Step 2: Login to Tiktok `The Script will save the cookie session and use this for the next time you run it`**
 
 ## Requirements:
 ```
