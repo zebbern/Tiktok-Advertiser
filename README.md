@@ -25,13 +25,13 @@
 > **Run the python file login to tiktok and the script will save the cookies and use this for the next time you run it**
 
 ## Requirements:
----
-- Python 3.x
-- Selenium
-- Google Chrome & ChromeDriver
+```
+Python 3.x
+Selenium
+Google Chrome & ChromeDriver
+```
 
 ## Usage:
----
 1. Install the required Python libraries:
    ```
    pip install selenium
@@ -47,8 +47,7 @@
    ```
 
 
-Contribute:
------------
+## Contribute:
 Feel free to suggest improvements or contribute by visiting [https://github.com/zebbern](https://github.com/zebbern).
 
 <hr>
