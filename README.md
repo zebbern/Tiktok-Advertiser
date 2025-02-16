@@ -4,9 +4,12 @@
 ## TikTok Advertiser Bot
    
    <a href="https://github.com/zebbern/Tiktok-Advertiser">
-      <img src="https://www.edigitalagency.com.au/wp-content/uploads/TikTok-icon-glyph.png" alt="Logo" width="120" height="120">
+      <img src="https://www.edigitalagency.com.au/wp-content/uploads/TikTok-icon-glyph.png" width="13%">
    </a>
-   
+
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Status](https://img.shields.io/badge/Status-Active-green)
+![License](https://img.shields.io/badge/License-MIT-brightgreen)
 
 **Automate TikTok commenting with ease! Using Selenium to log in to TikTok, navigate hashtags, and post comments on videos, All hashtags and comments can be edited!**
 
