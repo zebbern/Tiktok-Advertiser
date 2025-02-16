@@ -13,11 +13,11 @@
 ---
 
 ## Features:
-**Log in to TikTok using saved cookies or manual login.**
+**`Log in to TikTok using saved cookies or manual login.`**
 
-**Automatically post comments on videos under specified hashtags.**
+**`Automatically post comments on videos under specified hashtags.`**
 
-**Customizable comments promoting your choosen projects or product.**
+**`Customizable comments promoting your choosen projects or product.`**
 
 </div>
 
